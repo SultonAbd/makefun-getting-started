@@ -201,6 +201,11 @@ Read the `fix` on the failed check in the refusal — it tells you exactly
 what to change and whether a new attempt can pass. Fix the repo, not the
 submission, and send it again the same day if the quota allows.
 
+**What if the leaderboard already looks out of reach?**
+Pick a newer bounty instead. Referral scores only grow over a round, so an
+older round is the hardest place to start — a fresh one gives every guide
+the same starting line.
+
 ---
 
 ## Run it
